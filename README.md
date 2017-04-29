@@ -1,12 +1,12 @@
-# XamarinForms-NetStandard-Project
-Blank Xamarin.Forms Solutions with .NET standard library that's ready to build and run only on VS2017. Earlier VS version will not able to open this due to usage of NuGet `PackageReference`.
+# XamarinForms-NetStandard
+Blank Xamarin.Forms Solutions with .NET standard library that's ready to build and run only on VS2017, using instructions from [Oren Novotny's blogpost](https://oren.codes/2017/04/23/using-xamarin-forms-with-net-standard-vs-2017-edition/) . 
 
-This project is using [Xamarin.Forms 2.3.5.235-pre2](https://forums.xamarin.com/discussion/93181/pre-release-xamarin-forms-2-3-5-235-pre2) as it's compatible with .NET standard library.
+Each project referenced [Xamarin.Forms 2.3.5.235-pre2](https://forums.xamarin.com/discussion/93181/pre-release-xamarin-forms-2-3-5-235-pre2) as it's compatible with .NET standard library. Exercise caution before using this in production.
 
-Constructed using instructions from [Oren Novotny's blogpost](https://oren.codes/2017/04/23/using-xamarin-forms-with-net-standard-vs-2017-edition/)
+**PS**: Earlier VS version will not able to open this due to usage of NuGet `PackageReference`, which is only supported in VS2017.
 
 ## How do I use this?
-* [Download](https://github.com/xyfoo/XamarinForms-NetStandard-Project/archive/master.zip)
+* [Download this as Zip](https://github.com/xyfoo/XamarinForms-NetStandard-Project/archive/master.zip)
 * Rename projects/solutions/folder/file name as you see fit
 * Open (with VS2017), build and run!
 
