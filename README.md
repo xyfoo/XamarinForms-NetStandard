@@ -3,7 +3,7 @@ Blank Xamarin.Forms Solutions with .NET standard library that's ready to build a
 
 Each project referenced [Xamarin.Forms 2.3.5.235-pre2](https://forums.xamarin.com/discussion/93181/pre-release-xamarin-forms-2-3-5-235-pre2) as it's compatible with .NET standard library. Exercise caution when using this in production environment.
 
-**PS**: Earlier VS version will not able to open this due to usage of NuGet `PackageReference`, which is only supported in VS2017.
+Earlier VS version will not able to open this due to usage of NuGet `PackageReference`, which is only supported in VS2017.
 
 ## How do I use this?
 * [Download this as Zip](https://github.com/xyfoo/XamarinForms-NetStandard-Project/archive/master.zip)
